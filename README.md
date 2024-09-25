@@ -4,6 +4,9 @@
 Dataset used: 
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
+Late Delivery Risk Prediction with Machine Learning Project:
+https://github.com/PolinaBurova/Predicting-Delivery-Delays-in-Supply-Chain
+
 
 ## Overview
 
